@@ -34,7 +34,7 @@ docker build -t findtrackr .
 To run the Docker container:
 
 ``` 
-docker run --rm -p 5001:5001 trackr
+docker run --rm -p 5001:5001 findtrackr
 # Enter Ctl-C to stop the Docker instance and clean up
 ```
 
